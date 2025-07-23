@@ -23,7 +23,7 @@ def show():
 
     # configuração da aba web e sidebar
     st.set_page_config(
-        page_title="Cidadão Digital",
+        page_title="Cidadão Online",
         page_icon="🏢",
         layout="wide",
         initial_sidebar_state="expanded"  # Sidebar sempre aberta
