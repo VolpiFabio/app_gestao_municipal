@@ -27,7 +27,7 @@ def show():
     <div style='text-align:center; line-height:1.2;'>
         <h1 style='margin-bottom:0; font-size:2.5em;'>
             <span style='color:red;'>C</span>idadão 
-            <span style='color:gray;'>D</span>igital
+            <span style='color:gray;'>O</span>nline
         </h1>
         <p style='margin-top:0; font-size:1.3em;'>Sistema de Gestão Municipal Integrado</p>
     </div>
