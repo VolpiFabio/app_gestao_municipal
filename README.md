@@ -2,13 +2,13 @@
 
 ![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow )
 
-Bem-vindo ao repositório do **Cidadão Digital**, uma aplicação web desenvolvida com Streamlit e Python, projetada para ser um portal integrado de serviços para cidadãos de diversos municípios.
+Bem-vindo ao repositório do **Sistema de Gestão Municipal Integrado**, uma aplicação web desenvolvida com Streamlit e Python, projetada para ser um portal integrado de serviços para cidadãos de diversos municípios.
 
 > **Nota:** Este projeto está atualmente em fase de desenvolvimento ativo. Novas funcionalidades estão sendo adicionadas e a estrutura pode mudar.
 
 ## 📋 Sobre o Projeto
 
-O objetivo do Cidadão Digital é centralizar e simplificar o acesso a serviços e informações municipais, oferecendo uma plataforma única onde os cidadãos podem se autenticar e interagir com a gestão de sua cidade.
+O objetivo do Sistema de Gestão Municipal Integrado é centralizar e simplificar o acesso a serviços e informações municipais, oferecendo uma plataforma única onde os cidadãos podem se autenticar e interagir com a gestão de sua cidade.
 
 A aplicação está sendo construída com uma arquitetura modular, permitindo fácil expansão e manutenção.
 
