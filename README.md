@@ -83,7 +83,8 @@ Com tudo instalado e configurado, inicie a aplicação com o seguinte comando:
 
 ```bash
 streamlit run main.py
+```
 
-### 🤝 Contribuições
+🤝 Contribuições  
 Este é um projeto pessoal, mas feedbacks e sugestões são sempre bem-vindos! Sinta-se à vontade para abrir uma Issue para relatar um bug ou sugerir uma nova funcionalidade.
 
